@@ -1,0 +1,29 @@
+{
+  "name": "@binssoft/multi-uploader",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/animations": "~8.2.14",
+    "@angular/common": "~8.2.14",
+    "@angular/compiler": "~8.2.14",
+    "@angular/core": "~8.2.14",
+    "@angular/forms": "~8.2.14",
+    "@angular/platform-browser": "~8.2.14",
+    "@angular/platform-browser-dynamic": "~8.2.14",
+    "rxjs": "~6.4.0",
+    "tslib": "^1.10.0",
+    "zone.js": "~0.9.1"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/binssoft-multi-uploader.umd.js",
+  "module": "fesm5/binssoft-multi-uploader.js",
+  "es2015": "fesm2015/binssoft-multi-uploader.js",
+  "esm5": "esm5/binssoft-multi-uploader.js",
+  "esm2015": "esm2015/binssoft-multi-uploader.js",
+  "fesm5": "fesm5/binssoft-multi-uploader.js",
+  "fesm2015": "fesm2015/binssoft-multi-uploader.js",
+  "typings": "binssoft-multi-uploader.d.ts",
+  "metadata": "binssoft-multi-uploader.metadata.json",
+  "sideEffects": false
+}
